@@ -1,0 +1,25 @@
+2019-03-19 13:52:01,047 - BrowserEngine - INFO - You had select Chrome browser !
+2019-03-19 13:52:01,048 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2019-03-19 13:52:03,806 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-19 13:52:04,469 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-03-19 13:52:05,603 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 13:52:05,609 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 13:52:05,625 - BasePage - INFO - Current page title is 百度一下，你就知道
+2019-03-19 13:52:07,951 - BasePage - INFO - 退出浏览器，结束测试.
+2019-03-19 13:52:07,952 - BrowserEngine - INFO - You had select Chrome browser !
+2019-03-19 13:52:07,952 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2019-03-19 13:52:10,334 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-19 13:52:10,901 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-03-19 13:52:12,031 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 13:52:12,033 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 13:52:12,076 - BasePage - INFO - Had find the element  successful by xpath via value: //*[@id='u1']/a[1] 
+2019-03-19 13:52:13,997 - BasePage - INFO - The element  was clicked.
+2019-03-19 13:52:15,998 - BasePage - INFO - Sleep for 2 seconds
+2019-03-19 13:52:16,017 - BasePage - INFO - Had find the element  successful by xpath via value: //*[@id='channel-shanghai']/div/ul/li[7]/a 
+2019-03-19 13:52:16,986 - BasePage - INFO - The element  was clicked.
+2019-03-19 13:52:18,986 - BasePage - INFO - Sleep for 2 seconds
+2019-03-19 13:52:19,005 - BasePage - INFO - Had find the element  successful by xpath via value: //*[@id='col_nba']/div[1]/div[2]/ul[1]/li[1]/a 
+2019-03-19 13:52:19,185 - BasePage - INFO - The element  was clicked.
+2019-03-19 13:52:21,186 - BasePage - INFO - Sleep for 2 seconds
+2019-03-19 13:52:21,892 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-03-19 13:52:24,308 - BasePage - INFO - 退出浏览器，结束测试.

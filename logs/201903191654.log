@@ -1,0 +1,45 @@
+2019-03-19 16:54:19,741 - BrowserEngine - INFO - You had select Chrome browser !
+2019-03-19 16:54:19,742 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2019-03-19 16:54:22,144 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-19 16:54:22,771 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-03-19 16:54:23,897 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 16:54:23,903 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 16:54:23,937 - BasePage - INFO - Had find the element  successful by id via value: kw 
+2019-03-19 16:54:24,136 - BasePage - INFO - Had type ' selenium ' in inputBox
+2019-03-19 16:54:24,159 - BasePage - INFO - Had find the element  successful by xpath via value: //*[@id='su'] 
+2019-03-19 16:54:24,233 - BasePage - INFO - The element  was clicked.
+2019-03-19 16:54:26,234 - BasePage - INFO - Sleep for 2 seconds
+2019-03-19 16:54:26,687 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-03-19 16:54:26,695 - BasePage - INFO - Current page title is selenium_百度搜索
+2019-03-19 16:54:26,707 - BasePage - INFO - Had find the element  successful by id via value: kw 
+2019-03-19 16:54:26,776 - BasePage - INFO - Had type ' 滑稽 ' in inputBox
+2019-03-19 16:54:26,786 - BasePage - INFO - Had find the element  successful by xpath via value: //*[@id='su'] 
+2019-03-19 16:54:26,835 - BasePage - INFO - The element  was clicked.
+2019-03-19 16:54:28,835 - BasePage - INFO - Sleep for 2 seconds
+2019-03-19 16:54:29,395 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-03-19 16:54:31,737 - BasePage - INFO - 退出浏览器，结束测试.
+2019-03-19 16:54:31,738 - BrowserEngine - INFO - You had select Chrome browser !
+2019-03-19 16:54:31,738 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2019-03-19 16:54:33,953 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-19 16:54:34,496 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-03-19 16:54:35,623 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 16:54:35,627 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 16:54:35,640 - BasePage - INFO - Current page title is 百度一下，你就知道
+2019-03-19 16:54:37,958 - BasePage - INFO - 退出浏览器，结束测试.
+2019-03-19 16:54:37,959 - BrowserEngine - INFO - You had select Chrome browser !
+2019-03-19 16:54:37,959 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2019-03-19 16:54:40,226 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-19 16:54:40,726 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-03-19 16:54:41,856 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 16:54:41,861 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 16:54:41,896 - BasePage - INFO - Had find the element  successful by xpath via value: //*[@id='u1']/a[1] 
+2019-03-19 16:54:43,462 - BasePage - INFO - The element  was clicked.
+2019-03-19 16:54:45,463 - BasePage - INFO - Sleep for 2 seconds
+2019-03-19 16:54:45,480 - BasePage - INFO - Had find the element  successful by xpath via value: //*[@id='channel-shanghai']/div/ul/li[7]/a 
+2019-03-19 16:54:46,582 - BasePage - INFO - The element  was clicked.
+2019-03-19 16:54:48,584 - BasePage - INFO - Sleep for 2 seconds
+2019-03-19 16:54:48,600 - BasePage - INFO - Had find the element  successful by xpath via value: //*[@id='col_nba']/div[1]/div[2]/ul[1]/li[1]/a 
+2019-03-19 16:54:48,829 - BasePage - INFO - The element  was clicked.
+2019-03-19 16:54:50,829 - BasePage - INFO - Sleep for 2 seconds
+2019-03-19 16:54:51,446 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-03-19 16:54:53,848 - BasePage - INFO - 退出浏览器，结束测试.
